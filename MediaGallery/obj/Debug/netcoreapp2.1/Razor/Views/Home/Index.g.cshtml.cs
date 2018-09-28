@@ -74,7 +74,7 @@ using MediaGallery.Models;
             WriteLiteral("        <li style=\"display:inline-block;margin:10px;border:1px solid darkgray\">");
             EndContext();
             BeginContext(350, 125, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83d4b9790ba34fa79005ed422af8deb5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e7bd52f576064174877861fb54f6c712", async() => {
                 BeginContext(428, 4, true);
                 WriteLiteral("<img");
                 EndContext();
@@ -136,7 +136,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper.RouteValues = routeData;
             WriteLiteral("        <li style=\"display:inline-block;margin:10px;border:1px solid darkgray\">\r\n        ");
             EndContext();
             BeginContext(796, 149, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "167bd17ad9fe4916a8055dc97a42337d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3469af5539d74bb5a03bff376b19ffc0", async() => {
                 BeginContext(874, 18, true);
                 WriteLiteral("\r\n            <img");
                 EndContext();
